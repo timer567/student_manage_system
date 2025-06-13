@@ -1,0 +1,2 @@
+# student_manage_system
+用python写的学生成绩管理系统，用于学生成绩信息的增删改查，以及导入导出功能，实现了web端的应用
